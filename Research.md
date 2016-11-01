@@ -7,7 +7,8 @@
 - checking
 - savings
 - money market
-- credit card (VISA)
+- credit card (VISA)  
+
 >if they need other services such as retirement and loan servicing they can go to a large bank as those are not usually serviced daily by the consumer and require more long term planning than just spending money - possible weakness/threat, can also be seen as a strength for ease of use
 
 ### What features do they need?

@@ -1,7 +1,7 @@
 ### Who is the audience?
 - traveler (never in the same place at once/can't get to the bank)
 - young and modern (traditional banking isn't their expectation/mobile tied)
-- remote and rural (ie rancher in Wyoming)
+- remote and rural (ie rancher in Wyoming/can get to a bank but not easy or timely)
 
 ### What type of accounts are we offering?
 - checking

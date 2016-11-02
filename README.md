@@ -12,9 +12,9 @@ About: Branchless Bank was founded in 2015 by world traveller Andrew Milo. Milo 
 - Integrate with Apple Pay and Android Pay for quick checkout and additional security.
 
 #### Target Audience
-- Constant travellers: Whether is work or wanderlust, our users won't need to be anywhere specific to manage their money.
-- The tech savvy: Everything is at your finger tips, why not banking?
-- The rural journeyman: Just because you live in a remote area doesn't mean you should lack services.
+- Constant travellers: Whether it's work or wanderlust, our users won't need to be anywhere specific to manage their money.
+- The tech savvy: Everything is already at your finger tips, why not banking too?
+- The rural journeyman: Just because you live in a remote area doesn't mean you should lack services. No one wants to drive an hour to a bank anyways.
 
 #### Projected Timeline
 - Discovery: 11/1 - 11/7
